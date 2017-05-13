@@ -1,0 +1,10 @@
+[
+    {
+        "modid": "timeplayed",
+        "name": "TimePlayed",
+        "version": "1.0",
+        "requiredMods": [
+            "spongeapi@5.1.0"
+        ]
+    }
+]
